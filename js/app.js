@@ -172,7 +172,6 @@ function showTopBtn() {
    }
 }
 
-
 buildNav(sectionsList);
 createTopBtn();
 
